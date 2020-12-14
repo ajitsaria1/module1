@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="93" started-at="2020-12-14T10:38:19 GMT" finished-at="2020-12-14T10:38:19 GMT">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="93" started-at="2020-12-14T10:38:19 GMT" finished-at="2020-12-14T10:38:19 GMT">
+      <class name="VendingMachineUnitTest">
+        <test-method status="PASS" signature="setUIp()[pri:0, instance:VendingMachineUnitTest@4678c730]" name="setUIp" is-config="true" duration-ms="16" started-at="2020-12-14T10:38:19 GMT" finished-at="2020-12-14T10:38:19 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUIp -->
+        <test-method status="PASS" signature="testBuyItemWithExactPrice()[pri:0, instance:VendingMachineUnitTest@4678c730]" name="testBuyItemWithExactPrice" duration-ms="15" started-at="2020-12-14T10:38:19 GMT" finished-at="2020-12-14T10:38:19 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBuyItemWithExactPrice -->
+        <test-method status="PASS" signature="testRefund()[pri:0, instance:VendingMachineUnitTest@4678c730]" name="testRefund" duration-ms="0" started-at="2020-12-14T10:38:19 GMT" finished-at="2020-12-14T10:38:19 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRefund -->
+        <test-method status="PASS" signature="testNotSufficientChangeException()[pri:0, instance:VendingMachineUnitTest@4678c730]" name="testNotSufficientChangeException" duration-ms="0" started-at="2020-12-14T10:38:19 GMT" finished-at="2020-12-14T10:38:19 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNotSufficientChangeException -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:VendingMachineUnitTest@4678c730]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-12-14T10:38:19 GMT" finished-at="2020-12-14T10:38:19 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="testBuyItemWithMorePrice()[pri:0, instance:VendingMachineUnitTest@4678c730]" name="testBuyItemWithMorePrice" duration-ms="0" started-at="2020-12-14T10:38:19 GMT" finished-at="2020-12-14T10:38:19 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBuyItemWithMorePrice -->
+      </class> <!-- VendingMachineUnitTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
